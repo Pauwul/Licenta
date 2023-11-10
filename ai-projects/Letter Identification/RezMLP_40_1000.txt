@@ -1,0 +1,90 @@
+
+AccTrain =
+
+    0.5000
+
+
+AccTest =
+
+    0.1500
+
+
+AccVal =
+
+    0.1500
+
+
+AccTrain =
+
+    0.8250
+
+
+AccTest =
+
+    0.2500
+
+
+AccVal =
+
+    0.2500
+
+
+AccTrain =
+
+    0.6500
+
+
+AccTest =
+
+    0.3000
+
+
+AccVal =
+
+    0.3000
+
+
+AccTrain =
+
+    0.9625
+
+
+AccTest =
+
+    0.4500
+
+
+AccVal =
+
+    0.4500
+
+
+AccTrain =
+
+    0.9000
+
+
+AccTest =
+
+    0.1500
+
+
+AccVal =
+
+    0.1500
+
+
+AccTrain =
+
+    0.7250
+
+
+AccTest =
+
+    0.2500
+
+
+AccVal =
+
+    0.2500
+

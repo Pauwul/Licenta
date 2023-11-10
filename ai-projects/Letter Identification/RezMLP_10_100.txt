@@ -1,0 +1,268 @@
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('toolboxdir')" style="font-weight:bold">toolboxdir</a>
+Could not locate the base directory for vision.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', 'E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m', 25)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m',25,0)">line 25</a>)
+syntheticDir   = fullfile(toolboxdir('vision'),'visiondata','digits','synthetic');
+} 
+matlab.internal.language.introspective.errorDocCallback('toolboxdir')
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/errorOnInValidWindow')" style="font-weight:bold">matlab.internal.cef.webwindow/errorOnInValidWindow</a>
+Webwindow is not valid. It was closed by user or
+the process was terminated.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m', 673)" style="font-weight:bold">matlab.internal.cef.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m',673,0)">line 673</a>)
+            obj.errorOnInValidWindow()
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m', 225)" style="font-weight:bold">matlab.internal.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m',225,0)">line 225</a>)
+            bringToFront(obj.impl)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.AddOnsWindow/bringToFront', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m', 72)" style="font-weight:bold">matlab.internal.addons.AddOnsWindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m',72,0)">line 72</a>)
+            obj.webwindow.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.Explorer/show', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m', 65)" style="font-weight:bold">matlab.internal.addons.Explorer/show</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m',65,0)">line 65</a>)
+            obj.addOnsWindowInstance.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.launchers.showExplorer', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m', 134)" style="font-weight:bold">matlab.internal.addons.launchers.showExplorer</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m',134,0)">line 134</a>)
+        matlab.internal.addons.Explorer.getInstance.show(navigationData);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/errorOnInValidWindow')" style="font-weight:bold">matlab.internal.cef.webwindow/errorOnInValidWindow</a>
+Webwindow is not valid. It was closed by user or
+the process was terminated.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m', 673)" style="font-weight:bold">matlab.internal.cef.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m',673,0)">line 673</a>)
+            obj.errorOnInValidWindow()
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m', 225)" style="font-weight:bold">matlab.internal.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m',225,0)">line 225</a>)
+            bringToFront(obj.impl)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.AddOnsWindow/bringToFront', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m', 72)" style="font-weight:bold">matlab.internal.addons.AddOnsWindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m',72,0)">line 72</a>)
+            obj.webwindow.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.Explorer/show', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m', 65)" style="font-weight:bold">matlab.internal.addons.Explorer/show</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m',65,0)">line 65</a>)
+            obj.addOnsWindowInstance.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.launchers.showExplorer', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m', 134)" style="font-weight:bold">matlab.internal.addons.launchers.showExplorer</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m',134,0)">line 134</a>)
+        matlab.internal.addons.Explorer.getInstance.show(navigationData);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/errorOnInValidWindow')" style="font-weight:bold">matlab.internal.cef.webwindow/errorOnInValidWindow</a>
+Webwindow is not valid. It was closed by user or
+the process was terminated.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m', 673)" style="font-weight:bold">matlab.internal.cef.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m',673,0)">line 673</a>)
+            obj.errorOnInValidWindow()
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m', 225)" style="font-weight:bold">matlab.internal.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m',225,0)">line 225</a>)
+            bringToFront(obj.impl)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.AddOnsWindow/bringToFront', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m', 72)" style="font-weight:bold">matlab.internal.addons.AddOnsWindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m',72,0)">line 72</a>)
+            obj.webwindow.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.Explorer/show', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m', 65)" style="font-weight:bold">matlab.internal.addons.Explorer/show</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m',65,0)">line 65</a>)
+            obj.addOnsWindowInstance.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.launchers.showExplorer', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m', 134)" style="font-weight:bold">matlab.internal.addons.launchers.showExplorer</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m',134,0)">line 134</a>)
+        matlab.internal.addons.Explorer.getInstance.show(navigationData);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/errorOnInValidWindow')" style="font-weight:bold">matlab.internal.cef.webwindow/errorOnInValidWindow</a>
+Webwindow is not valid. It was closed by user or the process was terminated.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.cef.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m', 673)" style="font-weight:bold">matlab.internal.cef.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\+cef\webwindow.m',673,0)">line 673</a>)
+            obj.errorOnInValidWindow()
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.webwindow/bringToFront', 'E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m', 225)" style="font-weight:bold">matlab.internal.webwindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\cefclient\+matlab\+internal\webwindow.m',225,0)">line 225</a>)
+            bringToFront(obj.impl)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.AddOnsWindow/bringToFront', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m', 72)" style="font-weight:bold">matlab.internal.addons.AddOnsWindow/bringToFront</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\AddOnsWindow.m',72,0)">line 72</a>)
+            obj.webwindow.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.Explorer/show', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m', 65)" style="font-weight:bold">matlab.internal.addons.Explorer/show</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\Explorer.m',65,0)">line 65</a>)
+            obj.addOnsWindowInstance.bringToFront();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.addons.launchers.showExplorer', 'E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m', 134)" style="font-weight:bold">matlab.internal.addons.launchers.showExplorer</a> (<a href="matlab: opentoline('E:\toolbox\matlab\addons\cef\+matlab\+internal\+addons\+launchers\showExplorer.m',134,0)">line 134</a>)
+        matlab.internal.addons.Explorer.getInstance.show(navigationData);
+} 
+
+AccTrain =
+
+    0.4563
+
+
+AccTest =
+
+    0.4067
+
+
+AccVal =
+
+    0.4067
+
+[Warning: The following error was caught while executing 'onCleanup' class destructor:
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.StandalonePlotParent/prepareForClosing', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\StandalonePlotParent.m', 102)" style="font-weight:bold">nnet.internal.cnn.ui.StandalonePlotParent/prepareForClosing</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\StandalonePlotParent.m',102,0)">line 102</a>)
+            this.Figure.CloseRequestFcn = 'closereq';
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.UIFigureTrainingPlotView/prepareForClosing', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\UIFigureTrainingPlotView.m', 157)" style="font-weight:bold">nnet.internal.cnn.ui.UIFigureTrainingPlotView/prepareForClosing</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\UIFigureTrainingPlotView.m',157,0)">line 157</a>)
+            this.PlotParent.prepareForClosing();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.TrainingPlotPresenterWithDialog/cleanUpDialogs', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\TrainingPlotPresenterWithDialog.m', 144)" style="font-weight:bold">nnet.internal.cnn.ui.TrainingPlotPresenterWithDialog/cleanUpDialogs</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\TrainingPlotPresenterWithDialog.m',144,0)">line 144</a>)
+            this.TrainingPlotView.prepareForClosing();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.CLITrainingPlotter/finalizePlot', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\CLITrainingPlotter.m', 78)" style="font-weight:bold">nnet.internal.cnn.ui.CLITrainingPlotter/finalizePlot</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\CLITrainingPlotter.m',78,0)">line 78</a>)
+            this.TrainingPlotPresenter.cleanUpDialogs();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.util.TrainingPlotReporter/finalizePlot', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+util\TrainingPlotReporter.m', 100)" style="font-weight:bold">nnet.internal.cnn.util.TrainingPlotReporter/finalizePlot</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+util\TrainingPlotReporter.m',100,0)">line 100</a>)
+            this.TrainingPlotter.finalizePlot(errorOccurred);
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork>@()trainingPlotReporter.finalizePlot(errorState.ErrorOccurred)', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 89)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork>@()trainingPlotReporter.finalizePlot(errorState.ErrorOccurred)</a>
+(<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',89,0)">line 89</a>)
+cleanup = onCleanup(@()trainingPlotReporter.finalizePlot(errorState.ErrorOccurred));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('onCleanup/delete', 'E:\toolbox\matlab\general\onCleanup.m', 25)" style="font-weight:bold">onCleanup/delete</a> (<a href="matlab: opentoline('E:\toolbox\matlab\general\onCleanup.m',25,0)">line 25</a>)
+            obj.task();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 118)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',118,0)">line 118</a>)
+end
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainNetwork', 'E:\toolbox\nnet\cnn\trainNetwork.m', 189)" style="font-weight:bold">trainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\trainNetwork.m',189,0)">line 189</a>)
+    [trainedNet, info] = nnet.internal.cnn.trainNetwork.doTrainNetwork(factory,varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', 'E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m', 80)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m',80,0)">line 80</a>)
+net=trainNetwork(imdsTrainResizedFinal,layers,options);] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 118)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',118,0)">line 118</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainNetwork', 'E:\toolbox\nnet\cnn\trainNetwork.m', 189)" style="font-weight:bold">trainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\trainNetwork.m',189,0)">line 189</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', 'E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m', 80)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m',80,0)">line 80</a>)] 
+
+AccTrain =
+
+    0.7141
+
+
+AccTest =
+
+    0.6467
+
+
+AccVal =
+
+    0.6467
+
+[Warning: The following error was caught while executing 'onCleanup' class destructor:
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.StandalonePlotParent/prepareForClosing', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\StandalonePlotParent.m', 102)" style="font-weight:bold">nnet.internal.cnn.ui.StandalonePlotParent/prepareForClosing</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\StandalonePlotParent.m',102,0)">line 102</a>)
+            this.Figure.CloseRequestFcn = 'closereq';
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.UIFigureTrainingPlotView/prepareForClosing', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\UIFigureTrainingPlotView.m', 157)" style="font-weight:bold">nnet.internal.cnn.ui.UIFigureTrainingPlotView/prepareForClosing</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\UIFigureTrainingPlotView.m',157,0)">line 157</a>)
+            this.PlotParent.prepareForClosing();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.TrainingPlotPresenterWithDialog/cleanUpDialogs', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\TrainingPlotPresenterWithDialog.m', 144)" style="font-weight:bold">nnet.internal.cnn.ui.TrainingPlotPresenterWithDialog/cleanUpDialogs</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\TrainingPlotPresenterWithDialog.m',144,0)">line 144</a>)
+            this.TrainingPlotView.prepareForClosing();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.ui.CLITrainingPlotter/finalizePlot', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\CLITrainingPlotter.m', 78)" style="font-weight:bold">nnet.internal.cnn.ui.CLITrainingPlotter/finalizePlot</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+ui\CLITrainingPlotter.m',78,0)">line 78</a>)
+            this.TrainingPlotPresenter.cleanUpDialogs();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.util.TrainingPlotReporter/finalizePlot', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+util\TrainingPlotReporter.m', 100)" style="font-weight:bold">nnet.internal.cnn.util.TrainingPlotReporter/finalizePlot</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+util\TrainingPlotReporter.m',100,0)">line 100</a>)
+            this.TrainingPlotter.finalizePlot(errorOccurred);
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork>@()trainingPlotReporter.finalizePlot(errorState.ErrorOccurred)', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 89)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork>@()trainingPlotReporter.finalizePlot(errorState.ErrorOccurred)</a>
+(<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',89,0)">line 89</a>)
+cleanup = onCleanup(@()trainingPlotReporter.finalizePlot(errorState.ErrorOccurred));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('onCleanup/delete', 'E:\toolbox\matlab\general\onCleanup.m', 25)" style="font-weight:bold">onCleanup/delete</a> (<a href="matlab: opentoline('E:\toolbox\matlab\general\onCleanup.m',25,0)">line 25</a>)
+            obj.task();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 8)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',8,0)">line 8</a>)
+inputParser = factory.createInputParser();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainNetwork', 'E:\toolbox\nnet\cnn\trainNetwork.m', 189)" style="font-weight:bold">trainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\trainNetwork.m',189,0)">line 189</a>)
+    [trainedNet, info] = nnet.internal.cnn.trainNetwork.doTrainNetwork(factory,varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', 'E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m', 80)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m',80,0)">line 80</a>)
+net=trainNetwork(imdsTrainResizedFinal,layers,options);] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 8)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',8,0)">line 8</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainNetwork', 'E:\toolbox\nnet\cnn\trainNetwork.m', 189)" style="font-weight:bold">trainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\trainNetwork.m',189,0)">line 189</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', 'E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m', 80)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m',80,0)">line 80</a>)] 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.splitter.WholeFileCustomReadFileSetSplitter/getFilesAsCellStr')" style="font-weight:bold">matlab.io.datastore.splitter.WholeFileCustomReadFileSetSplitter/getFilesAsCellStr</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.ImageDatastore/nextFilesToRead', 'E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\ImageDatastore.m', 814)" style="font-weight:bold">matlab.io.datastore.ImageDatastore/nextFilesToRead</a> (<a href="matlab: opentoline('E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\ImageDatastore.m',814,0)">line 814</a>)
+                files = imds.Splitter.getFilesAsCellStr(idxes);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.ImageDatastore/readUsingPreFetcher', 'E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\ImageDatastore.m', 700)" style="font-weight:bold">matlab.io.datastore.ImageDatastore/readUsingPreFetcher</a> (<a href="matlab: opentoline('E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\ImageDatastore.m',700,0)">line 700</a>)
+                    [filesToPrefetch, prefetchIdxes] = nextFilesToRead(imds, imds.PrefetchSize);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.ImageDatastore/preFetchRead', 'E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\ImageDatastore.m', 587)" style="font-weight:bold">matlab.io.datastore.ImageDatastore/preFetchRead</a> (<a href="matlab: opentoline('E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\ImageDatastore.m',587,0)">line 587</a>)
+            [data, imds.BatchReader] = readUsingPreFetcher(imds, filesToRead, idxes, imds.BatchReader, readSize);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.ImageDatastore/read', 'E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\read.m', 68)" style="font-weight:bold">matlab.io.datastore.ImageDatastore/read</a> (<a href="matlab: opentoline('E:\toolbox\matlab\io\datastore\image\+matlab\+io\+datastore\@ImageDatastore\read.m',68,0)">line 68</a>)
+        [data, info] = preFetchRead(imds);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.TransformedDatastore/read', 'E:\toolbox\matlab\io\datastore\common\+matlab\+io\+datastore\TransformedDatastore.m', 232)" style="font-weight:bold">matlab.io.datastore.TransformedDatastore/read</a> (<a href="matlab: opentoline('E:\toolbox\matlab\io\datastore\common\+matlab\+io\+datastore\TransformedDatastore.m',232,0)">line 232</a>)
+                [data, info] = read(ds.UnderlyingDatastores{1});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.io.datastore.CombinedDatastore/read', 'E:\toolbox\matlab\io\datastore\common\+matlab\+io\+datastore\CombinedDatastore.m', 143)" style="font-weight:bold">matlab.io.datastore.CombinedDatastore/read</a> (<a href="matlab: opentoline('E:\toolbox\matlab\io\datastore\common\+matlab\+io\+datastore\CombinedDatastore.m',143,0)">line 143</a>)
+                [data{ii}, info{ii}] = read(ds.UnderlyingDatastores{ii});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.DataLoader/manageReadQueue', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\DataLoader.m', 206)" style="font-weight:bold">nnet.internal.cnn.DataLoader/manageReadQueue</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\DataLoader.m',206,0)">line 206</a>)
+                data = read(ds);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.DataLoader/nextBatch', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\DataLoader.m', 82)" style="font-weight:bold">nnet.internal.cnn.DataLoader/nextBatch</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\DataLoader.m',82,0)">line 82</a>)
+                manageReadQueue(this);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.dispatcher.GeneralDatastoreDispatcher/readNextBatchIntoCache', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+dispatcher\GeneralDatastoreDispatcher.m', 384)" style="font-weight:bold">nnet.internal.cnn.dispatcher.GeneralDatastoreDispatcher/readNextBatchIntoCache</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+dispatcher\GeneralDatastoreDispatcher.m',384,0)">line 384</a>)
+                data = nextBatch(this.DataLoader);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.dispatcher.GeneralDatastoreDispatcher/next', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+dispatcher\GeneralDatastoreDispatcher.m', 313)" style="font-weight:bold">nnet.internal.cnn.dispatcher.GeneralDatastoreDispatcher/next</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+dispatcher\GeneralDatastoreDispatcher.m',313,0)">line 313</a>)
+            this.readNextBatchIntoCache();
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.Trainer/train', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\Trainer.m', 120)" style="font-weight:bold">nnet.internal.cnn.Trainer/train</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\Trainer.m',120,0)">line 120</a>)
+                    [X, T, info] = data.next();
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.internal.cnn.trainNetwork.doTrainNetwork', 'E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m', 108)" style="font-weight:bold">nnet.internal.cnn.trainNetwork.doTrainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\+nnet\+internal\+cnn\+trainNetwork\doTrainNetwork.m',108,0)">line 108</a>)
+trainedNet = trainer.train(trainedNet, trainingDispatcher);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainNetwork', 'E:\toolbox\nnet\cnn\trainNetwork.m', 189)" style="font-weight:bold">trainNetwork</a> (<a href="matlab: opentoline('E:\toolbox\nnet\cnn\trainNetwork.m',189,0)">line 189</a>)
+    [trainedNet, info] = nnet.internal.cnn.trainNetwork.doTrainNetwork(factory,varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', 'E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m', 80)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('E:\licenta\AI-projects\Letter identification\Demo_ML_1_2023.m',80,0)">line 80</a>)
+net=trainNetwork(imdsTrainResizedFinal,layers,options);
+} 
+
+AccTrain =
+
+    0.4732
+
+
+AccTest =
+
+    0.4667
+
+
+AccVal =
+
+    0.4667
+
+{'imageInputLayer' requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'NN', 'focused', 'imageInputLayer');">Deep Learning Toolbox</a>.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Demo_ML_1_2023', '/Users/paul/Coding/facultate/ai-projects/Letter identification/Demo_ML_1_2023.m', 63)" style="font-weight:bold">Demo_ML_1_2023</a> (<a href="matlab: opentoline('/Users/paul/Coding/facultate/ai-projects/Letter identification/Demo_ML_1_2023.m',63,0)">line 63</a>)
+   imageInputLayer(targetSize)
+} 
+matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'NN', 'focused', 'imageInputLayer');
+matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'NN', 'focused', 'imageInputLayer');
+
+AccTrain =
+
+    0.5155
+
+
+AccTest =
+
+    0.4933
+
+
+AccVal =
+
+    0.4933
+
